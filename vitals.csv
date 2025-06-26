@@ -1,0 +1,10 @@
+Day,Patient,Age,HeartRate,BP_Sys,BP_Dia,Temperature,Status
+1,Aman,26,85,120,80,98.6,Normal
+2,Aman,26,92,130,85,99.1,Alert
+3,Aman,26,110,140,90,100.2,Critical
+1,Neha,32,78,118,78,98.4,Normal
+2,Neha,32,101,135,88,99.9,Alert
+3,Neha,32,108,145,92,100.5,Critical
+1,Ravi,45,90,125,83,98.8,Normal
+2,Ravi,45,95,138,86,99.7,Alert
+3,Ravi,45,112,150,95,101.1,Critical
